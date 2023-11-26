@@ -1,0 +1,87 @@
+.img{
+    height: 300px;
+}
+
+.text1{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.text2{
+    margin-left: 50px;
+    margin-top: 67px;
+}
+
+.hr1{
+}
+
+.img2{
+    height: 300px;
+}
+
+.img3{
+    height: 300px;
+}
+
+.div1{
+    margin-top: 70px;
+}
+
+.divlast{
+    margin-top: 40px;
+}
+
+.text23{
+    margin-top: 20px;
+}
+
+.card{
+    transition: all 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+.div23{
+    margin-top: 50px;
+    align-items: center;
+}
+
+.sel2{
+    margin-top: 20px;
+}
+
+.sel3{
+    margin-top: 20px;
+}
+
+.valo{
+    text-align: justify;
+}
+
+.text3{
+    padding-top: 50px;
+}
+
+.text4{
+    margin-top: 70px;
+    padding-bottom: 55px;
+}
+
+.text5{
+    padding-top: 50px;
+}
+
+.text7{
+    margin-top: 50px;
+}
+
+.text8{
+    margin-top: 70px;
+    padding-bottom: 26px;
+}
+
+.p{
+    padding-top: 100px;
+}
